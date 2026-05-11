@@ -1,0 +1,12 @@
+# Pastas de compilação do Maven
+target/
+
+# Configurações específicas do NetBeans
+nbproject/private/
+nbbuild/
+nbdist/
+.netbeans_automatic_build
+
+# Ficheiros de sistema
+Thumbs.db
+.DS_Store
